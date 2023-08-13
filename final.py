@@ -17,12 +17,12 @@ keyboard_inline = InlineKeyboardMarkup().add(button1,button2,button3,button4,but
 
 
 
-bot = Bot(token='5810719434:AAFU43cnz9DzBl9s8R-Ino3RHbflIjPzW70')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 #Set up bot and channel information
-bot_token = "5810719434:AAFU43cnz9DzBl9s8R-Ino3RHbflIjPzW70"
-channel_id = "-1001826934314"
+bot_token = " "
+channel_id = " "
 
 # Define function to send message to Telegram channel
 def send_message(message):
